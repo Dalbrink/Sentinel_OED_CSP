@@ -15,7 +15,7 @@
             "apiVersion": "2022-11-01-preview",
             "properties": {
                 "displayName": "Test1234",
-                "description": "asdasd",
+                "description": "ein zwei drei Bier",
                 "severity": "Medium",
                 "enabled": true,
                 "query": "SecurityIncident\r\n| limit 10",
