@@ -15,9 +15,9 @@
             "apiVersion": "2022-11-01-preview",
             "properties": {
                 "displayName": "Test1234",
-                "description": "ein zwei drei Bier",
+                "description": "ein zwei drei Bier und schnapps",
                 "severity": "Medium",
-                "enabled": true,
+                "enabled": false,
                 "query": "SecurityIncident\r\n| limit 10",
                 "queryFrequency": "PT5H",
                 "queryPeriod": "PT5H",
